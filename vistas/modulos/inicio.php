@@ -1,11 +1,11 @@
 <!-- Header -->
 <header class="masthead d-flex">
     <div class="container text-center my-auto">
-        <h1 class="mb-1">Stylish Portfolio</h1>
+        <h4 class="mb-1">INSTALACION DE UBUNTU COMO ENTORNO DE DESARROLLO Y DESPLIEGUE DE PAGINAS WEB, UTILIZANDO VIRTUALBOX</h4>
         <h3 class="mb-5">
-            <em>A Free Bootstrap Theme by Start Bootstrap</em>
+            <em>Presenta: Ramiro Diaz Ramos</em>
         </h3>
-        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Universidad Hipocrates</a>
     </div>
     <div class="overlay"></div>
 </header>
@@ -16,7 +16,7 @@
         <div class="row">
             <div class="col-lg-10 mx-auto">
                 <h2>Stylish Portfolio is the perfect theme for your next project!</h2>
-                <p class="lead mb-5">This theme features a flexible, UX friendly sidebar menu and stock photos from our friends at
+                <p class="lead mb-5">R
                     <a href="https://unsplash.com/">Unsplash</a>!</p>
                 <a class="btn btn-dark btn-xl js-scroll-trigger" href="#services">What We Offer</a>
             </div>
